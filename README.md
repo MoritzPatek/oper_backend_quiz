@@ -52,6 +52,10 @@ Once the application is running, access the Django admin panel:
 
 Log in with the above credentials to manage the application's data.
 
+
+### 5. Run tests
+
+Navigate into the project folder and type `pytest` into the terminal to run all the tests. 
 ## Notes
 
 - The setup process is fully automated by Docker, including dependency installation and database initialization.
